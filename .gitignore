@@ -1,0 +1,5 @@
+# Fichero con las contraseñas reales: NUNCA debe subirse al repositorio.
+.env
+
+# Descargas temporales
+*.tar.gz
